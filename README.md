@@ -50,3 +50,16 @@ HackerRank-Python-Solutions
 - Strengthen Problem Solving Skills
 
 ---
+## ✅ Problems Solved
+
+| No. | Problem | Difficulty | Status |
+|------|----------|------------|--------|
+| 01 | Solve Me First | Easy | ✅ |
+| 02 | Simple Array Sum | Easy | ✅ |
+| 03 | Compare the Triplets | Easy | ✅ |
+| 04 | A Very Big Sum | Easy | ✅ |
+| 05 | Diagonal Difference | Easy | ✅ |
+| 06 | Plus Minus | Easy | ✅ |
+| 07 | Staircase | Easy | ✅ |
+| 08 | Birthday Cake Candles | Easy | ✅ |
+| 09 | Mini Max Sum | Easy | ✅ |
